@@ -1,0 +1,28 @@
+{
+  "name": "cosmic-tools-urge",
+  "version": "1.0.0",
+  "description": "Cosmic Tools is a Node.js module providing a collection of utility functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wadeboatman5/cosmic-tools-urge"
+  },
+  "dependencies": {
+    "axios": "^0.24.0",
+    "meet-astro-util": "1.0.0",
+    "cosmic-voyager-fade": "1.0.0",
+    "mystic-feed": "1.0.0",
+    "serenify-seem": "1.0.0",
+    "fix-stellar-insight": "1.0.0",
+    "cook-string-random": "1.0.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wadeboatman5/cosmic-tools-urge/issues"
+  },
+  "homepage": "https://github.com/wadeboatman5/cosmic-tools-urge#readme"
+}
